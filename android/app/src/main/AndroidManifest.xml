@@ -4,7 +4,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
 
    <application
-        android:label="order"
+        android:label="اوردر مي سير"
         android:icon="@mipmap/ic_launcher"
        android:usesCleartextTraffic="true"
        >
